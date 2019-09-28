@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Tarea15\Tarea15\bin\Debug\Tarea15.exe.config
+C:\Users\luis\source\repos\Tarea15\Tarea15\bin\Debug\Tarea15.exe
+C:\Users\luis\source\repos\Tarea15\Tarea15\bin\Debug\Tarea15.pdb
+C:\Users\luis\source\repos\Tarea15\Tarea15\obj\Debug\Tarea15.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea15\Tarea15\obj\Debug\Tarea15.FRMAREA.resources
+C:\Users\luis\source\repos\Tarea15\Tarea15\obj\Debug\Tarea15.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea15\Tarea15\obj\Debug\Tarea15.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea15\Tarea15\obj\Debug\Tarea15.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea15\Tarea15\obj\Debug\Tarea15.exe
+C:\Users\luis\source\repos\Tarea15\Tarea15\obj\Debug\Tarea15.pdb

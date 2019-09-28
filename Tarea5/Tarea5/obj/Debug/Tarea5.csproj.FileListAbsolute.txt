@@ -1,0 +1,20 @@
+C:\Users\luis\source\repos\Tarea5\Tarea5\bin\Debug\Tarea5.exe.config
+C:\Users\luis\source\repos\Tarea5\Tarea5\bin\Debug\Tarea5.exe
+C:\Users\luis\source\repos\Tarea5\Tarea5\bin\Debug\Tarea5.pdb
+C:\Users\luis\source\repos\Tarea5\Tarea5\obj\Debug\Tarea5.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea5\Tarea5\obj\Debug\Tarea5.Form1.resources
+C:\Users\luis\source\repos\Tarea5\Tarea5\obj\Debug\Tarea5.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea5\Tarea5\obj\Debug\Tarea5.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea5\Tarea5\obj\Debug\Tarea5.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea5\Tarea5\obj\Debug\Tarea5.exe
+C:\Users\luis\source\repos\Tarea5\Tarea5\obj\Debug\Tarea5.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea5\Tarea5\bin\Debug\Tarea5.exe.config
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea5\Tarea5\bin\Debug\Tarea5.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea5\Tarea5\bin\Debug\Tarea5.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea5\Tarea5\obj\Debug\Tarea5.csprojAssemblyReference.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea5\Tarea5\obj\Debug\Tarea5.FRMIVA.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea5\Tarea5\obj\Debug\Tarea5.Properties.Resources.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea5\Tarea5\obj\Debug\Tarea5.csproj.GenerateResource.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea5\Tarea5\obj\Debug\Tarea5.csproj.CoreCompileInputs.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea5\Tarea5\obj\Debug\Tarea5.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea5\Tarea5\obj\Debug\Tarea5.pdb

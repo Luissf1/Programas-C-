@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Tarea39\Tarea39\obj\Debug\Tarea39.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea39\Tarea39\obj\Debug\Tarea39.FRMMAY.resources
+C:\Users\luis\source\repos\Tarea39\Tarea39\obj\Debug\Tarea39.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea39\Tarea39\obj\Debug\Tarea39.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea39\Tarea39\obj\Debug\Tarea39.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea39\Tarea39\bin\Debug\Tarea39.exe.config
+C:\Users\luis\source\repos\Tarea39\Tarea39\bin\Debug\Tarea39.exe
+C:\Users\luis\source\repos\Tarea39\Tarea39\bin\Debug\Tarea39.pdb
+C:\Users\luis\source\repos\Tarea39\Tarea39\obj\Debug\Tarea39.exe
+C:\Users\luis\source\repos\Tarea39\Tarea39\obj\Debug\Tarea39.pdb

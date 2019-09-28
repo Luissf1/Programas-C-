@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Tarea35\Tarea35\bin\Debug\Tarea35.exe.config
+C:\Users\luis\source\repos\Tarea35\Tarea35\bin\Debug\Tarea35.exe
+C:\Users\luis\source\repos\Tarea35\Tarea35\bin\Debug\Tarea35.pdb
+C:\Users\luis\source\repos\Tarea35\Tarea35\obj\Debug\Tarea35.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea35\Tarea35\obj\Debug\Tarea35.FRMFIB.resources
+C:\Users\luis\source\repos\Tarea35\Tarea35\obj\Debug\Tarea35.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea35\Tarea35\obj\Debug\Tarea35.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea35\Tarea35\obj\Debug\Tarea35.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea35\Tarea35\obj\Debug\Tarea35.exe
+C:\Users\luis\source\repos\Tarea35\Tarea35\obj\Debug\Tarea35.pdb

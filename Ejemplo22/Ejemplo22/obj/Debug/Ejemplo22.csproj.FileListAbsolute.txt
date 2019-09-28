@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Ejemplo22\Ejemplo22\bin\Debug\Ejemplo22.exe.config
+C:\Users\luis\source\repos\Ejemplo22\Ejemplo22\bin\Debug\Ejemplo22.exe
+C:\Users\luis\source\repos\Ejemplo22\Ejemplo22\bin\Debug\Ejemplo22.pdb
+C:\Users\luis\source\repos\Ejemplo22\Ejemplo22\obj\Debug\Ejemplo22.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Ejemplo22\Ejemplo22\obj\Debug\Ejemplo22.TXTEJE.resources
+C:\Users\luis\source\repos\Ejemplo22\Ejemplo22\obj\Debug\Ejemplo22.Properties.Resources.resources
+C:\Users\luis\source\repos\Ejemplo22\Ejemplo22\obj\Debug\Ejemplo22.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Ejemplo22\Ejemplo22\obj\Debug\Ejemplo22.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Ejemplo22\Ejemplo22\obj\Debug\Ejemplo22.exe
+C:\Users\luis\source\repos\Ejemplo22\Ejemplo22\obj\Debug\Ejemplo22.pdb

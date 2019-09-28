@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Tarea37\Tarea37\obj\Debug\Tarea37.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea37\Tarea37\obj\Debug\Tarea37.FRMPAR.resources
+C:\Users\luis\source\repos\Tarea37\Tarea37\obj\Debug\Tarea37.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea37\Tarea37\obj\Debug\Tarea37.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea37\Tarea37\obj\Debug\Tarea37.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea37\Tarea37\bin\Debug\Tarea37.exe.config
+C:\Users\luis\source\repos\Tarea37\Tarea37\bin\Debug\Tarea37.exe
+C:\Users\luis\source\repos\Tarea37\Tarea37\bin\Debug\Tarea37.pdb
+C:\Users\luis\source\repos\Tarea37\Tarea37\obj\Debug\Tarea37.exe
+C:\Users\luis\source\repos\Tarea37\Tarea37\obj\Debug\Tarea37.pdb

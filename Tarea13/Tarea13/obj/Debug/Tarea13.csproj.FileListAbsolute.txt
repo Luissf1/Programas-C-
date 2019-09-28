@@ -1,0 +1,10 @@
+F:\datos\Programs C#\Tarea13\Tarea13\bin\Debug\Tarea13.exe.config
+F:\datos\Programs C#\Tarea13\Tarea13\bin\Debug\Tarea13.exe
+F:\datos\Programs C#\Tarea13\Tarea13\bin\Debug\Tarea13.pdb
+F:\datos\Programs C#\Tarea13\Tarea13\obj\Debug\Tarea13.csprojAssemblyReference.cache
+F:\datos\Programs C#\Tarea13\Tarea13\obj\Debug\Tarea13.FRMDATOS.resources
+F:\datos\Programs C#\Tarea13\Tarea13\obj\Debug\Tarea13.Properties.Resources.resources
+F:\datos\Programs C#\Tarea13\Tarea13\obj\Debug\Tarea13.csproj.GenerateResource.cache
+F:\datos\Programs C#\Tarea13\Tarea13\obj\Debug\Tarea13.csproj.CoreCompileInputs.cache
+F:\datos\Programs C#\Tarea13\Tarea13\obj\Debug\Tarea13.exe
+F:\datos\Programs C#\Tarea13\Tarea13\obj\Debug\Tarea13.pdb

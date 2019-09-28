@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Ejemplo12\Ejemplo12\bin\Debug\Ejemplo12.exe.config
+C:\Users\luis\source\repos\Ejemplo12\Ejemplo12\bin\Debug\Ejemplo12.exe
+C:\Users\luis\source\repos\Ejemplo12\Ejemplo12\bin\Debug\Ejemplo12.pdb
+C:\Users\luis\source\repos\Ejemplo12\Ejemplo12\obj\Debug\Ejemplo12.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Ejemplo12\Ejemplo12\obj\Debug\Ejemplo12.FRMEJEMPLO12.resources
+C:\Users\luis\source\repos\Ejemplo12\Ejemplo12\obj\Debug\Ejemplo12.Properties.Resources.resources
+C:\Users\luis\source\repos\Ejemplo12\Ejemplo12\obj\Debug\Ejemplo12.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Ejemplo12\Ejemplo12\obj\Debug\Ejemplo12.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Ejemplo12\Ejemplo12\obj\Debug\Ejemplo12.exe
+C:\Users\luis\source\repos\Ejemplo12\Ejemplo12\obj\Debug\Ejemplo12.pdb

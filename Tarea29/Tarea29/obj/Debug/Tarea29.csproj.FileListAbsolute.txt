@@ -1,0 +1,10 @@
+D:\datos\Programs C#\Tarea29\Tarea29\bin\Debug\Tarea29.exe.config
+D:\datos\Programs C#\Tarea29\Tarea29\bin\Debug\Tarea29.exe
+D:\datos\Programs C#\Tarea29\Tarea29\bin\Debug\Tarea29.pdb
+D:\datos\Programs C#\Tarea29\Tarea29\obj\Debug\Tarea29.csprojAssemblyReference.cache
+D:\datos\Programs C#\Tarea29\Tarea29\obj\Debug\Tarea29.FRMFAC.resources
+D:\datos\Programs C#\Tarea29\Tarea29\obj\Debug\Tarea29.Properties.Resources.resources
+D:\datos\Programs C#\Tarea29\Tarea29\obj\Debug\Tarea29.csproj.GenerateResource.cache
+D:\datos\Programs C#\Tarea29\Tarea29\obj\Debug\Tarea29.csproj.CoreCompileInputs.cache
+D:\datos\Programs C#\Tarea29\Tarea29\obj\Debug\Tarea29.exe
+D:\datos\Programs C#\Tarea29\Tarea29\obj\Debug\Tarea29.pdb

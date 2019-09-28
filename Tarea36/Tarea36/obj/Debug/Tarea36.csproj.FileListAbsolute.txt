@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Tarea36\Tarea36\bin\Debug\Tarea36.exe.config
+C:\Users\luis\source\repos\Tarea36\Tarea36\bin\Debug\Tarea36.exe
+C:\Users\luis\source\repos\Tarea36\Tarea36\bin\Debug\Tarea36.pdb
+C:\Users\luis\source\repos\Tarea36\Tarea36\obj\Debug\Tarea36.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea36\Tarea36\obj\Debug\Tarea36.FRMMULTI.resources
+C:\Users\luis\source\repos\Tarea36\Tarea36\obj\Debug\Tarea36.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea36\Tarea36\obj\Debug\Tarea36.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea36\Tarea36\obj\Debug\Tarea36.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea36\Tarea36\obj\Debug\Tarea36.exe
+C:\Users\luis\source\repos\Tarea36\Tarea36\obj\Debug\Tarea36.pdb

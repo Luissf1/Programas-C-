@@ -1,0 +1,11 @@
+C:\Users\luis\source\repos\Tarea32\Tarea32\obj\Debug\Tarea32.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea32\Tarea32\obj\Debug\Tarea32.FRMMAYMEN.resources
+C:\Users\luis\source\repos\Tarea32\Tarea32\obj\Debug\Tarea32.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea32\Tarea32\obj\Debug\Tarea32.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea32\Tarea32\obj\Debug\Tarea32.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea32\Tarea32\bin\Debug\Tarea32.exe.config
+C:\Users\luis\source\repos\Tarea32\Tarea32\bin\Debug\Tarea32.exe
+C:\Users\luis\source\repos\Tarea32\Tarea32\bin\Debug\Tarea32.pdb
+C:\Users\luis\source\repos\Tarea32\Tarea32\obj\Debug\Tarea32.exe
+C:\Users\luis\source\repos\Tarea32\Tarea32\obj\Debug\Tarea32.pdb
+C:\Users\luis\source\repos\Tarea32\Tarea32\obj\Debug\Tarea32.FRMSEGUNDA.resources

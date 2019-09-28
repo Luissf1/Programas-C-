@@ -1,0 +1,11 @@
+C:\Users\luis\source\repos\Tarea44\Tarea44\bin\Debug\Tarea44.exe.config
+C:\Users\luis\source\repos\Tarea44\Tarea44\bin\Debug\Tarea44.exe
+C:\Users\luis\source\repos\Tarea44\Tarea44\bin\Debug\Tarea44.pdb
+C:\Users\luis\source\repos\Tarea44\Tarea44\obj\Debug\Tarea44.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea44\Tarea44\obj\Debug\Tarea44.FRMCAL.resources
+C:\Users\luis\source\repos\Tarea44\Tarea44\obj\Debug\Tarea44.FRMSEGUNDA.resources
+C:\Users\luis\source\repos\Tarea44\Tarea44\obj\Debug\Tarea44.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea44\Tarea44\obj\Debug\Tarea44.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea44\Tarea44\obj\Debug\Tarea44.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea44\Tarea44\obj\Debug\Tarea44.exe
+C:\Users\luis\source\repos\Tarea44\Tarea44\obj\Debug\Tarea44.pdb

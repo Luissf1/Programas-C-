@@ -1,0 +1,11 @@
+C:\Users\luis\source\repos\Tarea34\Tarea34\bin\Debug\Tarea34.exe.config
+C:\Users\luis\source\repos\Tarea34\Tarea34\bin\Debug\Tarea34.exe
+C:\Users\luis\source\repos\Tarea34\Tarea34\bin\Debug\Tarea34.pdb
+C:\Users\luis\source\repos\Tarea34\Tarea34\obj\Debug\Tarea34.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea34\Tarea34\obj\Debug\Tarea34.FRMSALDO.resources
+C:\Users\luis\source\repos\Tarea34\Tarea34\obj\Debug\Tarea34.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea34\Tarea34\obj\Debug\Tarea34.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea34\Tarea34\obj\Debug\Tarea34.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea34\Tarea34\obj\Debug\Tarea34.exe
+C:\Users\luis\source\repos\Tarea34\Tarea34\obj\Debug\Tarea34.pdb
+C:\Users\luis\source\repos\Tarea34\Tarea34\obj\Debug\Tarea34.FRMSEGUNDA.resources

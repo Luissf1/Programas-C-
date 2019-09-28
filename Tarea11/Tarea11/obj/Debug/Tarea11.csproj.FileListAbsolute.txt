@@ -1,0 +1,30 @@
+C:\Users\luis\source\repos\Tarea11\Tarea11\bin\Debug\Tarea11.exe.config
+C:\Users\luis\source\repos\Tarea11\Tarea11\bin\Debug\Tarea11.exe
+C:\Users\luis\source\repos\Tarea11\Tarea11\bin\Debug\Tarea11.pdb
+C:\Users\luis\source\repos\Tarea11\Tarea11\obj\Debug\Tarea11.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea11\Tarea11\obj\Debug\Tarea11.FRMTIEMPO.resources
+C:\Users\luis\source\repos\Tarea11\Tarea11\obj\Debug\Tarea11.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea11\Tarea11\obj\Debug\Tarea11.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea11\Tarea11\obj\Debug\Tarea11.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea11\Tarea11\obj\Debug\Tarea11.exe
+C:\Users\luis\source\repos\Tarea11\Tarea11\obj\Debug\Tarea11.pdb
+F:\datos\Programs C#\Tarea11\Tarea11\bin\Debug\Tarea11.exe.config
+F:\datos\Programs C#\Tarea11\Tarea11\bin\Debug\Tarea11.exe
+F:\datos\Programs C#\Tarea11\Tarea11\bin\Debug\Tarea11.pdb
+F:\datos\Programs C#\Tarea11\Tarea11\obj\Debug\Tarea11.csprojAssemblyReference.cache
+F:\datos\Programs C#\Tarea11\Tarea11\obj\Debug\Tarea11.FRMTIEMPO.resources
+F:\datos\Programs C#\Tarea11\Tarea11\obj\Debug\Tarea11.Properties.Resources.resources
+F:\datos\Programs C#\Tarea11\Tarea11\obj\Debug\Tarea11.csproj.GenerateResource.cache
+F:\datos\Programs C#\Tarea11\Tarea11\obj\Debug\Tarea11.csproj.CoreCompileInputs.cache
+F:\datos\Programs C#\Tarea11\Tarea11\obj\Debug\Tarea11.exe
+F:\datos\Programs C#\Tarea11\Tarea11\obj\Debug\Tarea11.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea11\Tarea11\bin\Debug\Tarea11.exe.config
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea11\Tarea11\bin\Debug\Tarea11.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea11\Tarea11\bin\Debug\Tarea11.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea11\Tarea11\obj\Debug\Tarea11.csprojAssemblyReference.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea11\Tarea11\obj\Debug\Tarea11.FRMTIEMPO.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea11\Tarea11\obj\Debug\Tarea11.Properties.Resources.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea11\Tarea11\obj\Debug\Tarea11.csproj.GenerateResource.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea11\Tarea11\obj\Debug\Tarea11.csproj.CoreCompileInputs.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea11\Tarea11\obj\Debug\Tarea11.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea11\Tarea11\obj\Debug\Tarea11.pdb

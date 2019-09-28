@@ -1,0 +1,10 @@
+D:\datos\Programs C#\Tarea23\Tarea23\bin\Debug\Tarea23.exe.config
+D:\datos\Programs C#\Tarea23\Tarea23\bin\Debug\Tarea23.exe
+D:\datos\Programs C#\Tarea23\Tarea23\bin\Debug\Tarea23.pdb
+D:\datos\Programs C#\Tarea23\Tarea23\obj\Debug\Tarea23.csprojAssemblyReference.cache
+D:\datos\Programs C#\Tarea23\Tarea23\obj\Debug\Tarea23.Form1.resources
+D:\datos\Programs C#\Tarea23\Tarea23\obj\Debug\Tarea23.Properties.Resources.resources
+D:\datos\Programs C#\Tarea23\Tarea23\obj\Debug\Tarea23.csproj.GenerateResource.cache
+D:\datos\Programs C#\Tarea23\Tarea23\obj\Debug\Tarea23.csproj.CoreCompileInputs.cache
+D:\datos\Programs C#\Tarea23\Tarea23\obj\Debug\Tarea23.exe
+D:\datos\Programs C#\Tarea23\Tarea23\obj\Debug\Tarea23.pdb

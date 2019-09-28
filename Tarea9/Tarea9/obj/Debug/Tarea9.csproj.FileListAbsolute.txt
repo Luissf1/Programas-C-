@@ -1,0 +1,30 @@
+C:\Users\luis\Desktop\Programs C#\Tarea9\Tarea9\bin\Debug\Tarea9.exe.config
+C:\Users\luis\Desktop\Programs C#\Tarea9\Tarea9\bin\Debug\Tarea9.exe
+C:\Users\luis\Desktop\Programs C#\Tarea9\Tarea9\bin\Debug\Tarea9.pdb
+C:\Users\luis\Desktop\Programs C#\Tarea9\Tarea9\obj\Debug\Tarea9.csprojAssemblyReference.cache
+C:\Users\luis\Desktop\Programs C#\Tarea9\Tarea9\obj\Debug\Tarea9.FRMPESOS.resources
+C:\Users\luis\Desktop\Programs C#\Tarea9\Tarea9\obj\Debug\Tarea9.Properties.Resources.resources
+C:\Users\luis\Desktop\Programs C#\Tarea9\Tarea9\obj\Debug\Tarea9.csproj.GenerateResource.cache
+C:\Users\luis\Desktop\Programs C#\Tarea9\Tarea9\obj\Debug\Tarea9.csproj.CoreCompileInputs.cache
+C:\Users\luis\Desktop\Programs C#\Tarea9\Tarea9\obj\Debug\Tarea9.exe
+C:\Users\luis\Desktop\Programs C#\Tarea9\Tarea9\obj\Debug\Tarea9.pdb
+F:\datos\Programs C#\Tarea9\Tarea9\bin\Debug\Tarea9.exe.config
+F:\datos\Programs C#\Tarea9\Tarea9\bin\Debug\Tarea9.exe
+F:\datos\Programs C#\Tarea9\Tarea9\bin\Debug\Tarea9.pdb
+F:\datos\Programs C#\Tarea9\Tarea9\obj\Debug\Tarea9.csprojAssemblyReference.cache
+F:\datos\Programs C#\Tarea9\Tarea9\obj\Debug\Tarea9.FRMPESOS.resources
+F:\datos\Programs C#\Tarea9\Tarea9\obj\Debug\Tarea9.Properties.Resources.resources
+F:\datos\Programs C#\Tarea9\Tarea9\obj\Debug\Tarea9.csproj.GenerateResource.cache
+F:\datos\Programs C#\Tarea9\Tarea9\obj\Debug\Tarea9.csproj.CoreCompileInputs.cache
+F:\datos\Programs C#\Tarea9\Tarea9\obj\Debug\Tarea9.exe
+F:\datos\Programs C#\Tarea9\Tarea9\obj\Debug\Tarea9.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea9\Tarea9\bin\Debug\Tarea9.exe.config
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea9\Tarea9\bin\Debug\Tarea9.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea9\Tarea9\bin\Debug\Tarea9.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea9\Tarea9\obj\Debug\Tarea9.csprojAssemblyReference.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea9\Tarea9\obj\Debug\Tarea9.FRMPESOS.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea9\Tarea9\obj\Debug\Tarea9.Properties.Resources.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea9\Tarea9\obj\Debug\Tarea9.csproj.GenerateResource.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea9\Tarea9\obj\Debug\Tarea9.csproj.CoreCompileInputs.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea9\Tarea9\obj\Debug\Tarea9.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea9\Tarea9\obj\Debug\Tarea9.pdb

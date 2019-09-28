@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Ejemplo20\Ejemplo20\bin\Debug\Ejemplo20.exe.config
+C:\Users\luis\source\repos\Ejemplo20\Ejemplo20\bin\Debug\Ejemplo20.exe
+C:\Users\luis\source\repos\Ejemplo20\Ejemplo20\bin\Debug\Ejemplo20.pdb
+C:\Users\luis\source\repos\Ejemplo20\Ejemplo20\obj\Debug\Ejemplo20.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Ejemplo20\Ejemplo20\obj\Debug\Ejemplo20.FRMEJE.resources
+C:\Users\luis\source\repos\Ejemplo20\Ejemplo20\obj\Debug\Ejemplo20.Properties.Resources.resources
+C:\Users\luis\source\repos\Ejemplo20\Ejemplo20\obj\Debug\Ejemplo20.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Ejemplo20\Ejemplo20\obj\Debug\Ejemplo20.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Ejemplo20\Ejemplo20\obj\Debug\Ejemplo20.exe
+C:\Users\luis\source\repos\Ejemplo20\Ejemplo20\obj\Debug\Ejemplo20.pdb

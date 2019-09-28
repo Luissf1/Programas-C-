@@ -1,0 +1,20 @@
+C:\Users\luis\source\repos\Tarea8\Tarea8\bin\Debug\Tarea8.exe.config
+C:\Users\luis\source\repos\Tarea8\Tarea8\bin\Debug\Tarea8.exe
+C:\Users\luis\source\repos\Tarea8\Tarea8\bin\Debug\Tarea8.pdb
+C:\Users\luis\source\repos\Tarea8\Tarea8\obj\Debug\Tarea8.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea8\Tarea8\obj\Debug\Tarea8.FRMCON.resources
+C:\Users\luis\source\repos\Tarea8\Tarea8\obj\Debug\Tarea8.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea8\Tarea8\obj\Debug\Tarea8.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea8\Tarea8\obj\Debug\Tarea8.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea8\Tarea8\obj\Debug\Tarea8.exe
+C:\Users\luis\source\repos\Tarea8\Tarea8\obj\Debug\Tarea8.pdb
+F:\datos\Programs C#\Tarea8\Tarea8\bin\Debug\Tarea8.exe.config
+F:\datos\Programs C#\Tarea8\Tarea8\bin\Debug\Tarea8.exe
+F:\datos\Programs C#\Tarea8\Tarea8\bin\Debug\Tarea8.pdb
+F:\datos\Programs C#\Tarea8\Tarea8\obj\Debug\Tarea8.csprojAssemblyReference.cache
+F:\datos\Programs C#\Tarea8\Tarea8\obj\Debug\Tarea8.FRMCON.resources
+F:\datos\Programs C#\Tarea8\Tarea8\obj\Debug\Tarea8.Properties.Resources.resources
+F:\datos\Programs C#\Tarea8\Tarea8\obj\Debug\Tarea8.csproj.GenerateResource.cache
+F:\datos\Programs C#\Tarea8\Tarea8\obj\Debug\Tarea8.csproj.CoreCompileInputs.cache
+F:\datos\Programs C#\Tarea8\Tarea8\obj\Debug\Tarea8.exe
+F:\datos\Programs C#\Tarea8\Tarea8\obj\Debug\Tarea8.pdb

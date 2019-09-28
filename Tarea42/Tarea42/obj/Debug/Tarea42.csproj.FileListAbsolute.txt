@@ -1,0 +1,11 @@
+C:\Users\luis\source\repos\Tarea42\Tarea42\bin\Debug\Tarea42.exe.config
+C:\Users\luis\source\repos\Tarea42\Tarea42\bin\Debug\Tarea42.exe
+C:\Users\luis\source\repos\Tarea42\Tarea42\bin\Debug\Tarea42.pdb
+C:\Users\luis\source\repos\Tarea42\Tarea42\obj\Debug\Tarea42.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea42\Tarea42\obj\Debug\Tarea42.FRMCAL.resources
+C:\Users\luis\source\repos\Tarea42\Tarea42\obj\Debug\Tarea42.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea42\Tarea42\obj\Debug\Tarea42.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea42\Tarea42\obj\Debug\Tarea42.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea42\Tarea42\obj\Debug\Tarea42.exe
+C:\Users\luis\source\repos\Tarea42\Tarea42\obj\Debug\Tarea42.pdb
+C:\Users\luis\source\repos\Tarea42\Tarea42\obj\Debug\Tarea42.FRMSEGUNDA.resources

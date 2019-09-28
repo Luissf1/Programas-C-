@@ -1,0 +1,10 @@
+D:\datos\Programs C#\Tarea20\Tarea20\obj\Debug\Tarea20.csprojAssemblyReference.cache
+D:\datos\Programs C#\Tarea20\Tarea20\obj\Debug\Tarea20.FRMMAYOROMENOR.resources
+D:\datos\Programs C#\Tarea20\Tarea20\obj\Debug\Tarea20.Properties.Resources.resources
+D:\datos\Programs C#\Tarea20\Tarea20\obj\Debug\Tarea20.csproj.GenerateResource.cache
+D:\datos\Programs C#\Tarea20\Tarea20\obj\Debug\Tarea20.csproj.CoreCompileInputs.cache
+D:\datos\Programs C#\Tarea20\Tarea20\bin\Debug\Tarea20.exe.config
+D:\datos\Programs C#\Tarea20\Tarea20\bin\Debug\Tarea20.exe
+D:\datos\Programs C#\Tarea20\Tarea20\bin\Debug\Tarea20.pdb
+D:\datos\Programs C#\Tarea20\Tarea20\obj\Debug\Tarea20.exe
+D:\datos\Programs C#\Tarea20\Tarea20\obj\Debug\Tarea20.pdb

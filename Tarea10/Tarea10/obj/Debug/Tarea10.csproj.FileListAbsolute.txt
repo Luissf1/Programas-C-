@@ -1,0 +1,30 @@
+C:\Users\luis\Desktop\Programs C#\Tarea10\Tarea10\bin\Debug\Tarea10.exe.config
+C:\Users\luis\Desktop\Programs C#\Tarea10\Tarea10\bin\Debug\Tarea10.exe
+C:\Users\luis\Desktop\Programs C#\Tarea10\Tarea10\bin\Debug\Tarea10.pdb
+C:\Users\luis\Desktop\Programs C#\Tarea10\Tarea10\obj\Debug\Tarea10.csprojAssemblyReference.cache
+C:\Users\luis\Desktop\Programs C#\Tarea10\Tarea10\obj\Debug\Tarea10.FRMNOMS.resources
+C:\Users\luis\Desktop\Programs C#\Tarea10\Tarea10\obj\Debug\Tarea10.Properties.Resources.resources
+C:\Users\luis\Desktop\Programs C#\Tarea10\Tarea10\obj\Debug\Tarea10.csproj.GenerateResource.cache
+C:\Users\luis\Desktop\Programs C#\Tarea10\Tarea10\obj\Debug\Tarea10.csproj.CoreCompileInputs.cache
+C:\Users\luis\Desktop\Programs C#\Tarea10\Tarea10\obj\Debug\Tarea10.exe
+C:\Users\luis\Desktop\Programs C#\Tarea10\Tarea10\obj\Debug\Tarea10.pdb
+F:\datos\Programs C#\Tarea10\Tarea10\bin\Debug\Tarea10.exe.config
+F:\datos\Programs C#\Tarea10\Tarea10\bin\Debug\Tarea10.exe
+F:\datos\Programs C#\Tarea10\Tarea10\bin\Debug\Tarea10.pdb
+F:\datos\Programs C#\Tarea10\Tarea10\obj\Debug\Tarea10.csprojAssemblyReference.cache
+F:\datos\Programs C#\Tarea10\Tarea10\obj\Debug\Tarea10.FRMNOMS.resources
+F:\datos\Programs C#\Tarea10\Tarea10\obj\Debug\Tarea10.Properties.Resources.resources
+F:\datos\Programs C#\Tarea10\Tarea10\obj\Debug\Tarea10.csproj.GenerateResource.cache
+F:\datos\Programs C#\Tarea10\Tarea10\obj\Debug\Tarea10.csproj.CoreCompileInputs.cache
+F:\datos\Programs C#\Tarea10\Tarea10\obj\Debug\Tarea10.exe
+F:\datos\Programs C#\Tarea10\Tarea10\obj\Debug\Tarea10.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea10\Tarea10\bin\Debug\Tarea10.exe.config
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea10\Tarea10\bin\Debug\Tarea10.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea10\Tarea10\bin\Debug\Tarea10.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea10\Tarea10\obj\Debug\Tarea10.csprojAssemblyReference.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea10\Tarea10\obj\Debug\Tarea10.FRMNOMS.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea10\Tarea10\obj\Debug\Tarea10.Properties.Resources.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea10\Tarea10\obj\Debug\Tarea10.csproj.GenerateResource.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea10\Tarea10\obj\Debug\Tarea10.csproj.CoreCompileInputs.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea10\Tarea10\obj\Debug\Tarea10.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea10\Tarea10\obj\Debug\Tarea10.pdb

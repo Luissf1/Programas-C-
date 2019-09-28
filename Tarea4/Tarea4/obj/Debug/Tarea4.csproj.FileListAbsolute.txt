@@ -1,0 +1,30 @@
+C:\Users\luis\source\repos\Tarea4\Tarea4\bin\Debug\Tarea4.exe.config
+C:\Users\luis\source\repos\Tarea4\Tarea4\bin\Debug\Tarea4.exe
+C:\Users\luis\source\repos\Tarea4\Tarea4\bin\Debug\Tarea4.pdb
+C:\Users\luis\source\repos\Tarea4\Tarea4\obj\Debug\Tarea4.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea4\Tarea4\obj\Debug\Tarea4.FRMNOM.resources
+C:\Users\luis\source\repos\Tarea4\Tarea4\obj\Debug\Tarea4.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea4\Tarea4\obj\Debug\Tarea4.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea4\Tarea4\obj\Debug\Tarea4.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea4\Tarea4\obj\Debug\Tarea4.exe
+C:\Users\luis\source\repos\Tarea4\Tarea4\obj\Debug\Tarea4.pdb
+C:\Users\luis\Desktop\Programs C#\Tarea4\Tarea4\bin\Debug\Tarea4.exe.config
+C:\Users\luis\Desktop\Programs C#\Tarea4\Tarea4\bin\Debug\Tarea4.exe
+C:\Users\luis\Desktop\Programs C#\Tarea4\Tarea4\bin\Debug\Tarea4.pdb
+C:\Users\luis\Desktop\Programs C#\Tarea4\Tarea4\obj\Debug\Tarea4.csprojAssemblyReference.cache
+C:\Users\luis\Desktop\Programs C#\Tarea4\Tarea4\obj\Debug\Tarea4.FRMNOM.resources
+C:\Users\luis\Desktop\Programs C#\Tarea4\Tarea4\obj\Debug\Tarea4.Properties.Resources.resources
+C:\Users\luis\Desktop\Programs C#\Tarea4\Tarea4\obj\Debug\Tarea4.csproj.GenerateResource.cache
+C:\Users\luis\Desktop\Programs C#\Tarea4\Tarea4\obj\Debug\Tarea4.csproj.CoreCompileInputs.cache
+C:\Users\luis\Desktop\Programs C#\Tarea4\Tarea4\obj\Debug\Tarea4.exe
+C:\Users\luis\Desktop\Programs C#\Tarea4\Tarea4\obj\Debug\Tarea4.pdb
+G:\datos\Programs C#\Tarea4\Tarea4\obj\Debug\Tarea4.csprojAssemblyReference.cache
+G:\datos\Programs C#\Tarea4\Tarea4\obj\Debug\Tarea4.FRMNOM.resources
+G:\datos\Programs C#\Tarea4\Tarea4\obj\Debug\Tarea4.Properties.Resources.resources
+G:\datos\Programs C#\Tarea4\Tarea4\obj\Debug\Tarea4.csproj.GenerateResource.cache
+G:\datos\Programs C#\Tarea4\Tarea4\obj\Debug\Tarea4.csproj.CoreCompileInputs.cache
+G:\datos\Programs C#\Tarea4\Tarea4\obj\Debug\Tarea4.exe
+G:\datos\Programs C#\Tarea4\Tarea4\obj\Debug\Tarea4.pdb
+G:\datos\Programs C#\Tarea4\Tarea4\bin\Debug\Tarea4.exe.config
+G:\datos\Programs C#\Tarea4\Tarea4\bin\Debug\Tarea4.exe
+G:\datos\Programs C#\Tarea4\Tarea4\bin\Debug\Tarea4.pdb

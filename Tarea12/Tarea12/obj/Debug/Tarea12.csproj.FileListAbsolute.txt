@@ -1,0 +1,20 @@
+C:\Users\luis\source\repos\Tarea12\Tarea12\bin\Debug\Tarea12.exe.config
+C:\Users\luis\source\repos\Tarea12\Tarea12\bin\Debug\Tarea12.exe
+C:\Users\luis\source\repos\Tarea12\Tarea12\bin\Debug\Tarea12.pdb
+C:\Users\luis\source\repos\Tarea12\Tarea12\obj\Debug\Tarea12.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea12\Tarea12\obj\Debug\Tarea12.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea12\Tarea12\obj\Debug\Tarea12.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea12\Tarea12\obj\Debug\Tarea12.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea12\Tarea12\obj\Debug\Tarea12.exe
+C:\Users\luis\source\repos\Tarea12\Tarea12\obj\Debug\Tarea12.pdb
+C:\Users\luis\source\repos\Tarea12\Tarea12\obj\Debug\Tarea12.FRMFACTURA.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea12\Tarea12\bin\Debug\Tarea12.exe.config
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea12\Tarea12\bin\Debug\Tarea12.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea12\Tarea12\bin\Debug\Tarea12.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea12\Tarea12\obj\Debug\Tarea12.csprojAssemblyReference.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea12\Tarea12\obj\Debug\Tarea12.FRMFACTURA.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea12\Tarea12\obj\Debug\Tarea12.Properties.Resources.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea12\Tarea12\obj\Debug\Tarea12.csproj.GenerateResource.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea12\Tarea12\obj\Debug\Tarea12.csproj.CoreCompileInputs.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea12\Tarea12\obj\Debug\Tarea12.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea12\Tarea12\obj\Debug\Tarea12.pdb

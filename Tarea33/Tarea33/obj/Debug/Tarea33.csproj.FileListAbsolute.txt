@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Tarea33\Tarea33\bin\Debug\Tarea33.exe.config
+C:\Users\luis\source\repos\Tarea33\Tarea33\bin\Debug\Tarea33.exe
+C:\Users\luis\source\repos\Tarea33\Tarea33\bin\Debug\Tarea33.pdb
+C:\Users\luis\source\repos\Tarea33\Tarea33\obj\Debug\Tarea33.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea33\Tarea33\obj\Debug\Tarea33.FRMNUMERO.resources
+C:\Users\luis\source\repos\Tarea33\Tarea33\obj\Debug\Tarea33.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea33\Tarea33\obj\Debug\Tarea33.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea33\Tarea33\obj\Debug\Tarea33.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea33\Tarea33\obj\Debug\Tarea33.exe
+C:\Users\luis\source\repos\Tarea33\Tarea33\obj\Debug\Tarea33.pdb

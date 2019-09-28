@@ -1,0 +1,20 @@
+C:\Users\luis\source\repos\Tarea16\Tarea16\bin\Debug\Tarea16.exe.config
+C:\Users\luis\source\repos\Tarea16\Tarea16\bin\Debug\Tarea16.exe
+C:\Users\luis\source\repos\Tarea16\Tarea16\bin\Debug\Tarea16.pdb
+C:\Users\luis\source\repos\Tarea16\Tarea16\obj\Debug\Tarea16.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea16\Tarea16\obj\Debug\Tarea16.Form1.resources
+C:\Users\luis\source\repos\Tarea16\Tarea16\obj\Debug\Tarea16.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea16\Tarea16\obj\Debug\Tarea16.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea16\Tarea16\obj\Debug\Tarea16.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea16\Tarea16\obj\Debug\Tarea16.exe
+C:\Users\luis\source\repos\Tarea16\Tarea16\obj\Debug\Tarea16.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea16\Tarea16\bin\Debug\Tarea16.exe.config
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea16\Tarea16\bin\Debug\Tarea16.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea16\Tarea16\bin\Debug\Tarea16.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea16\Tarea16\obj\Debug\Tarea16.csprojAssemblyReference.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea16\Tarea16\obj\Debug\Tarea16.FRMVENTAS.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea16\Tarea16\obj\Debug\Tarea16.Properties.Resources.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea16\Tarea16\obj\Debug\Tarea16.csproj.GenerateResource.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea16\Tarea16\obj\Debug\Tarea16.csproj.CoreCompileInputs.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea16\Tarea16\obj\Debug\Tarea16.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea16\Tarea16\obj\Debug\Tarea16.pdb

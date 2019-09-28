@@ -1,0 +1,30 @@
+C:\Users\luis\source\repos\Tarea3\Tarea3\bin\Debug\Tarea3.exe.config
+C:\Users\luis\source\repos\Tarea3\Tarea3\bin\Debug\Tarea3.exe
+C:\Users\luis\source\repos\Tarea3\Tarea3\bin\Debug\Tarea3.pdb
+C:\Users\luis\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3.FRMTIEMPO.resources
+C:\Users\luis\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3.exe
+C:\Users\luis\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3.pdb
+G:\datos\Programs C#\Tarea3\Tarea3\bin\Debug\Tarea3.exe.config
+G:\datos\Programs C#\Tarea3\Tarea3\bin\Debug\Tarea3.exe
+G:\datos\Programs C#\Tarea3\Tarea3\bin\Debug\Tarea3.pdb
+G:\datos\Programs C#\Tarea3\Tarea3\obj\Debug\Tarea3.csprojAssemblyReference.cache
+G:\datos\Programs C#\Tarea3\Tarea3\obj\Debug\Tarea3.FRMTIEMPO.resources
+G:\datos\Programs C#\Tarea3\Tarea3\obj\Debug\Tarea3.Properties.Resources.resources
+G:\datos\Programs C#\Tarea3\Tarea3\obj\Debug\Tarea3.csproj.GenerateResource.cache
+G:\datos\Programs C#\Tarea3\Tarea3\obj\Debug\Tarea3.csproj.CoreCompileInputs.cache
+G:\datos\Programs C#\Tarea3\Tarea3\obj\Debug\Tarea3.exe
+G:\datos\Programs C#\Tarea3\Tarea3\obj\Debug\Tarea3.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea3\Tarea3\bin\Debug\Tarea3.exe.config
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea3\Tarea3\bin\Debug\Tarea3.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea3\Tarea3\bin\Debug\Tarea3.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea3\Tarea3\obj\Debug\Tarea3.csprojAssemblyReference.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea3\Tarea3\obj\Debug\Tarea3.FRMTIEMPO.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea3\Tarea3\obj\Debug\Tarea3.Properties.Resources.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea3\Tarea3\obj\Debug\Tarea3.csproj.GenerateResource.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea3\Tarea3\obj\Debug\Tarea3.csproj.CoreCompileInputs.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea3\Tarea3\obj\Debug\Tarea3.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea3\Tarea3\obj\Debug\Tarea3.pdb

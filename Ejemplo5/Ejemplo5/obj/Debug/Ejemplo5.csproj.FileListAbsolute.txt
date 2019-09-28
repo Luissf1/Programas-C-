@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Ejemplo5\Ejemplo5\bin\Debug\Ejemplo5.exe.config
+C:\Users\luis\source\repos\Ejemplo5\Ejemplo5\bin\Debug\Ejemplo5.exe
+C:\Users\luis\source\repos\Ejemplo5\Ejemplo5\bin\Debug\Ejemplo5.pdb
+C:\Users\luis\source\repos\Ejemplo5\Ejemplo5\obj\Debug\Ejemplo5.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Ejemplo5\Ejemplo5\obj\Debug\Ejemplo5.FRMEDAD.resources
+C:\Users\luis\source\repos\Ejemplo5\Ejemplo5\obj\Debug\Ejemplo5.Properties.Resources.resources
+C:\Users\luis\source\repos\Ejemplo5\Ejemplo5\obj\Debug\Ejemplo5.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Ejemplo5\Ejemplo5\obj\Debug\Ejemplo5.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Ejemplo5\Ejemplo5\obj\Debug\Ejemplo5.exe
+C:\Users\luis\source\repos\Ejemplo5\Ejemplo5\obj\Debug\Ejemplo5.pdb

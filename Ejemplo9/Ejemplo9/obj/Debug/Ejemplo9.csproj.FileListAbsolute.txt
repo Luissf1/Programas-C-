@@ -1,0 +1,10 @@
+D:\datos\Programs C#\Ejemplo9\Ejemplo9\bin\Debug\Ejemplo9.exe.config
+D:\datos\Programs C#\Ejemplo9\Ejemplo9\bin\Debug\Ejemplo9.exe
+D:\datos\Programs C#\Ejemplo9\Ejemplo9\bin\Debug\Ejemplo9.pdb
+D:\datos\Programs C#\Ejemplo9\Ejemplo9\obj\Debug\Ejemplo9.csprojAssemblyReference.cache
+D:\datos\Programs C#\Ejemplo9\Ejemplo9\obj\Debug\Ejemplo9.FRMEJEMPLO9.resources
+D:\datos\Programs C#\Ejemplo9\Ejemplo9\obj\Debug\Ejemplo9.Properties.Resources.resources
+D:\datos\Programs C#\Ejemplo9\Ejemplo9\obj\Debug\Ejemplo9.csproj.GenerateResource.cache
+D:\datos\Programs C#\Ejemplo9\Ejemplo9\obj\Debug\Ejemplo9.csproj.CoreCompileInputs.cache
+D:\datos\Programs C#\Ejemplo9\Ejemplo9\obj\Debug\Ejemplo9.exe
+D:\datos\Programs C#\Ejemplo9\Ejemplo9\obj\Debug\Ejemplo9.pdb

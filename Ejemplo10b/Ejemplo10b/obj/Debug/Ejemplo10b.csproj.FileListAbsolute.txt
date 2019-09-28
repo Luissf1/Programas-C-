@@ -1,0 +1,10 @@
+D:\datos\Programs C#\Ejemplo10b\Ejemplo10b\bin\Debug\Ejemplo10b.exe.config
+D:\datos\Programs C#\Ejemplo10b\Ejemplo10b\bin\Debug\Ejemplo10b.exe
+D:\datos\Programs C#\Ejemplo10b\Ejemplo10b\bin\Debug\Ejemplo10b.pdb
+D:\datos\Programs C#\Ejemplo10b\Ejemplo10b\obj\Debug\Ejemplo10b.csprojAssemblyReference.cache
+D:\datos\Programs C#\Ejemplo10b\Ejemplo10b\obj\Debug\Ejemplo10b.FRMEJEMPLO10B.resources
+D:\datos\Programs C#\Ejemplo10b\Ejemplo10b\obj\Debug\Ejemplo10b.Properties.Resources.resources
+D:\datos\Programs C#\Ejemplo10b\Ejemplo10b\obj\Debug\Ejemplo10b.csproj.GenerateResource.cache
+D:\datos\Programs C#\Ejemplo10b\Ejemplo10b\obj\Debug\Ejemplo10b.csproj.CoreCompileInputs.cache
+D:\datos\Programs C#\Ejemplo10b\Ejemplo10b\obj\Debug\Ejemplo10b.exe
+D:\datos\Programs C#\Ejemplo10b\Ejemplo10b\obj\Debug\Ejemplo10b.pdb

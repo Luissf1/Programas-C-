@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Tarea40\Tarea40\bin\Debug\Tarea40.exe.config
+C:\Users\luis\source\repos\Tarea40\Tarea40\bin\Debug\Tarea40.exe
+C:\Users\luis\source\repos\Tarea40\Tarea40\bin\Debug\Tarea40.pdb
+C:\Users\luis\source\repos\Tarea40\Tarea40\obj\Debug\Tarea40.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea40\Tarea40\obj\Debug\Tarea40.FRMMED.resources
+C:\Users\luis\source\repos\Tarea40\Tarea40\obj\Debug\Tarea40.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea40\Tarea40\obj\Debug\Tarea40.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea40\Tarea40\obj\Debug\Tarea40.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea40\Tarea40\obj\Debug\Tarea40.exe
+C:\Users\luis\source\repos\Tarea40\Tarea40\obj\Debug\Tarea40.pdb

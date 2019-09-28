@@ -1,0 +1,10 @@
+D:\datos\Programs C#\Tarea21\Tarea21\bin\Debug\Tarea21.exe.config
+D:\datos\Programs C#\Tarea21\Tarea21\bin\Debug\Tarea21.exe
+D:\datos\Programs C#\Tarea21\Tarea21\bin\Debug\Tarea21.pdb
+D:\datos\Programs C#\Tarea21\Tarea21\obj\Debug\Tarea21.csprojAssemblyReference.cache
+D:\datos\Programs C#\Tarea21\Tarea21\obj\Debug\Tarea21.FRMPOSITIVO.resources
+D:\datos\Programs C#\Tarea21\Tarea21\obj\Debug\Tarea21.Properties.Resources.resources
+D:\datos\Programs C#\Tarea21\Tarea21\obj\Debug\Tarea21.csproj.GenerateResource.cache
+D:\datos\Programs C#\Tarea21\Tarea21\obj\Debug\Tarea21.csproj.CoreCompileInputs.cache
+D:\datos\Programs C#\Tarea21\Tarea21\obj\Debug\Tarea21.exe
+D:\datos\Programs C#\Tarea21\Tarea21\obj\Debug\Tarea21.pdb

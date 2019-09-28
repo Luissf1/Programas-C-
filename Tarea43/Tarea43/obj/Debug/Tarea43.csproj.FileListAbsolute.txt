@@ -1,0 +1,20 @@
+C:\Users\luis\source\repos\Tarea43\Tarea43\bin\Debug\Tarea43.exe.config
+C:\Users\luis\source\repos\Tarea43\Tarea43\bin\Debug\Tarea43.exe
+C:\Users\luis\source\repos\Tarea43\Tarea43\bin\Debug\Tarea43.pdb
+C:\Users\luis\source\repos\Tarea43\Tarea43\obj\Debug\Tarea43.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea43\Tarea43\obj\Debug\Tarea43.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea43\Tarea43\obj\Debug\Tarea43.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea43\Tarea43\obj\Debug\Tarea43.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea43\Tarea43\obj\Debug\Tarea43.exe
+C:\Users\luis\source\repos\Tarea43\Tarea43\obj\Debug\Tarea43.pdb
+C:\Users\luis\source\repos\Tarea43\Tarea43\obj\Debug\Tarea43.FRMDIAG.resources
+C:\Users\luis\Desktop\Silva Reyes Luis Adrian T3 503\Tarea43\Tarea43\bin\Debug\Tarea43.exe.config
+C:\Users\luis\Desktop\Silva Reyes Luis Adrian T3 503\Tarea43\Tarea43\bin\Debug\Tarea43.exe
+C:\Users\luis\Desktop\Silva Reyes Luis Adrian T3 503\Tarea43\Tarea43\bin\Debug\Tarea43.pdb
+C:\Users\luis\Desktop\Silva Reyes Luis Adrian T3 503\Tarea43\Tarea43\obj\Debug\Tarea43.csprojAssemblyReference.cache
+C:\Users\luis\Desktop\Silva Reyes Luis Adrian T3 503\Tarea43\Tarea43\obj\Debug\Tarea43.FRMDIAG.resources
+C:\Users\luis\Desktop\Silva Reyes Luis Adrian T3 503\Tarea43\Tarea43\obj\Debug\Tarea43.Properties.Resources.resources
+C:\Users\luis\Desktop\Silva Reyes Luis Adrian T3 503\Tarea43\Tarea43\obj\Debug\Tarea43.csproj.GenerateResource.cache
+C:\Users\luis\Desktop\Silva Reyes Luis Adrian T3 503\Tarea43\Tarea43\obj\Debug\Tarea43.csproj.CoreCompileInputs.cache
+C:\Users\luis\Desktop\Silva Reyes Luis Adrian T3 503\Tarea43\Tarea43\obj\Debug\Tarea43.exe
+C:\Users\luis\Desktop\Silva Reyes Luis Adrian T3 503\Tarea43\Tarea43\obj\Debug\Tarea43.pdb

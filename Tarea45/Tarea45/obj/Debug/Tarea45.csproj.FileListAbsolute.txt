@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Tarea45\Tarea45\bin\Debug\Tarea45.exe.config
+C:\Users\luis\source\repos\Tarea45\Tarea45\bin\Debug\Tarea45.exe
+C:\Users\luis\source\repos\Tarea45\Tarea45\bin\Debug\Tarea45.pdb
+C:\Users\luis\source\repos\Tarea45\Tarea45\obj\Debug\Tarea45.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea45\Tarea45\obj\Debug\Tarea45.FRMTRABA.resources
+C:\Users\luis\source\repos\Tarea45\Tarea45\obj\Debug\Tarea45.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea45\Tarea45\obj\Debug\Tarea45.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea45\Tarea45\obj\Debug\Tarea45.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea45\Tarea45\obj\Debug\Tarea45.exe
+C:\Users\luis\source\repos\Tarea45\Tarea45\obj\Debug\Tarea45.pdb

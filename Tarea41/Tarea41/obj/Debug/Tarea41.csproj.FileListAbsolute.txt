@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Tarea41\Tarea41\bin\Debug\Tarea41.exe.config
+C:\Users\luis\source\repos\Tarea41\Tarea41\bin\Debug\Tarea41.exe
+C:\Users\luis\source\repos\Tarea41\Tarea41\bin\Debug\Tarea41.pdb
+C:\Users\luis\source\repos\Tarea41\Tarea41\obj\Debug\Tarea41.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea41\Tarea41\obj\Debug\Tarea41.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea41\Tarea41\obj\Debug\Tarea41.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea41\Tarea41\obj\Debug\Tarea41.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea41\Tarea41\obj\Debug\Tarea41.exe
+C:\Users\luis\source\repos\Tarea41\Tarea41\obj\Debug\Tarea41.pdb
+C:\Users\luis\source\repos\Tarea41\Tarea41\obj\Debug\Tarea41.FRMNUM.resources

@@ -1,0 +1,30 @@
+C:\Users\luis\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csprojAssemblyReference.cache
+C:\Users\luis\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.FRMEJEMPLO1.resources
+C:\Users\luis\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+C:\Users\luis\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+C:\Users\luis\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\luis\Desktop\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\luis\Desktop\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\luis\Desktop\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\luis\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\luis\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb
+G:\datos\Programs C#\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+G:\datos\Programs C#\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+G:\datos\Programs C#\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+G:\datos\Programs C#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csprojAssemblyReference.cache
+G:\datos\Programs C#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.FRMEJEMPLO1.resources
+G:\datos\Programs C#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+G:\datos\Programs C#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+G:\datos\Programs C#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+G:\datos\Programs C#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+G:\datos\Programs C#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb
+F:\datos\Programs C#\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+F:\datos\Programs C#\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+F:\datos\Programs C#\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+F:\datos\Programs C#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csprojAssemblyReference.cache
+F:\datos\Programs C#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.FRMEJEMPLO1.resources
+F:\datos\Programs C#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+F:\datos\Programs C#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+F:\datos\Programs C#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+F:\datos\Programs C#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+F:\datos\Programs C#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb

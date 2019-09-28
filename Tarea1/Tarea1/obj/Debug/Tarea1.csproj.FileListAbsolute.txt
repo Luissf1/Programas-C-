@@ -1,0 +1,10 @@
+C:\Users\luis\Documents\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+C:\Users\luis\Documents\Tarea1\Tarea1\bin\Debug\Tarea1.exe
+C:\Users\luis\Documents\Tarea1\Tarea1\bin\Debug\Tarea1.pdb
+C:\Users\luis\Documents\Tarea1\Tarea1\obj\Debug\Tarea1.csprojAssemblyReference.cache
+C:\Users\luis\Documents\Tarea1\Tarea1\obj\Debug\Tarea1.FRMVEL.resources
+C:\Users\luis\Documents\Tarea1\Tarea1\obj\Debug\Tarea1.Properties.Resources.resources
+C:\Users\luis\Documents\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.GenerateResource.cache
+C:\Users\luis\Documents\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\luis\Documents\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+C:\Users\luis\Documents\Tarea1\Tarea1\obj\Debug\Tarea1.pdb

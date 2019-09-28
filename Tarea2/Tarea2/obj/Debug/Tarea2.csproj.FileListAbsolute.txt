@@ -1,0 +1,37 @@
+C:\Users\luis\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.FRMHIP.resources
+C:\Users\luis\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\luis\source\repos\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\luis\source\repos\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\luis\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\luis\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
+C:\Users\luis\Desktop\Programs C#\Tarea2\Tarea2\obj\Debug\Tarea2.csprojAssemblyReference.cache
+C:\Users\luis\Desktop\Programs C#\Tarea2\Tarea2\obj\Debug\Tarea2.FRMHIP.resources
+C:\Users\luis\Desktop\Programs C#\Tarea2\Tarea2\obj\Debug\Tarea2.Properties.Resources.resources
+C:\Users\luis\Desktop\Programs C#\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.GenerateResource.cache
+C:\Users\luis\Desktop\Programs C#\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\luis\Desktop\Programs C#\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\luis\Desktop\Programs C#\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
+G:\datos\Programs C#\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+G:\datos\Programs C#\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+G:\datos\Programs C#\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+G:\datos\Programs C#\Tarea2\Tarea2\obj\Debug\Tarea2.csprojAssemblyReference.cache
+G:\datos\Programs C#\Tarea2\Tarea2\obj\Debug\Tarea2.FRMHIP.resources
+G:\datos\Programs C#\Tarea2\Tarea2\obj\Debug\Tarea2.Properties.Resources.resources
+G:\datos\Programs C#\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.GenerateResource.cache
+G:\datos\Programs C#\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+G:\datos\Programs C#\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+G:\datos\Programs C#\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea2\Tarea2\obj\Debug\Tarea2.csprojAssemblyReference.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea2\Tarea2\obj\Debug\Tarea2.FRMHIP.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea2\Tarea2\obj\Debug\Tarea2.Properties.Resources.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.GenerateResource.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea2\Tarea2\obj\Debug\Tarea2.pdb

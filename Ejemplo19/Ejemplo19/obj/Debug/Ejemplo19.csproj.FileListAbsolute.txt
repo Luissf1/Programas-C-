@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Ejemplo19\Ejemplo19\bin\Debug\Ejemplo19.exe.config
+C:\Users\luis\source\repos\Ejemplo19\Ejemplo19\bin\Debug\Ejemplo19.exe
+C:\Users\luis\source\repos\Ejemplo19\Ejemplo19\bin\Debug\Ejemplo19.pdb
+C:\Users\luis\source\repos\Ejemplo19\Ejemplo19\obj\Debug\Ejemplo19.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Ejemplo19\Ejemplo19\obj\Debug\Ejemplo19.FRMEJE.resources
+C:\Users\luis\source\repos\Ejemplo19\Ejemplo19\obj\Debug\Ejemplo19.Properties.Resources.resources
+C:\Users\luis\source\repos\Ejemplo19\Ejemplo19\obj\Debug\Ejemplo19.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Ejemplo19\Ejemplo19\obj\Debug\Ejemplo19.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Ejemplo19\Ejemplo19\obj\Debug\Ejemplo19.exe
+C:\Users\luis\source\repos\Ejemplo19\Ejemplo19\obj\Debug\Ejemplo19.pdb

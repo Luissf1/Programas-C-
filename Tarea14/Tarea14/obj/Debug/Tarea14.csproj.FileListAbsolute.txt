@@ -1,0 +1,20 @@
+C:\Users\luis\source\repos\Tarea14\Tarea14\bin\Debug\Tarea14.exe.config
+C:\Users\luis\source\repos\Tarea14\Tarea14\bin\Debug\Tarea14.exe
+C:\Users\luis\source\repos\Tarea14\Tarea14\bin\Debug\Tarea14.pdb
+C:\Users\luis\source\repos\Tarea14\Tarea14\obj\Debug\Tarea14.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea14\Tarea14\obj\Debug\Tarea14.FRMFACTURA.resources
+C:\Users\luis\source\repos\Tarea14\Tarea14\obj\Debug\Tarea14.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea14\Tarea14\obj\Debug\Tarea14.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea14\Tarea14\obj\Debug\Tarea14.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea14\Tarea14\obj\Debug\Tarea14.exe
+C:\Users\luis\source\repos\Tarea14\Tarea14\obj\Debug\Tarea14.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea14\Tarea14\bin\Debug\Tarea14.exe.config
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea14\Tarea14\bin\Debug\Tarea14.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea14\Tarea14\bin\Debug\Tarea14.pdb
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea14\Tarea14\obj\Debug\Tarea14.csprojAssemblyReference.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea14\Tarea14\obj\Debug\Tarea14.FRMFACTURA.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea14\Tarea14\obj\Debug\Tarea14.Properties.Resources.resources
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea14\Tarea14\obj\Debug\Tarea14.csproj.GenerateResource.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea14\Tarea14\obj\Debug\Tarea14.csproj.CoreCompileInputs.cache
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea14\Tarea14\obj\Debug\Tarea14.exe
+C:\Users\luis\Downloads\Silva Reyes Luis Adrian T1 503\Tarea14\Tarea14\obj\Debug\Tarea14.pdb

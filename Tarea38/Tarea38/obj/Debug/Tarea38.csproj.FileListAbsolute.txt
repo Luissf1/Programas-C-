@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Tarea38\Tarea38\bin\Debug\Tarea38.exe.config
+C:\Users\luis\source\repos\Tarea38\Tarea38\bin\Debug\Tarea38.exe
+C:\Users\luis\source\repos\Tarea38\Tarea38\bin\Debug\Tarea38.pdb
+C:\Users\luis\source\repos\Tarea38\Tarea38\obj\Debug\Tarea38.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea38\Tarea38\obj\Debug\Tarea38.FRMCAL.resources
+C:\Users\luis\source\repos\Tarea38\Tarea38\obj\Debug\Tarea38.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea38\Tarea38\obj\Debug\Tarea38.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea38\Tarea38\obj\Debug\Tarea38.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea38\Tarea38\obj\Debug\Tarea38.exe
+C:\Users\luis\source\repos\Tarea38\Tarea38\obj\Debug\Tarea38.pdb

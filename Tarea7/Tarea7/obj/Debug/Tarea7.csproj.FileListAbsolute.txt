@@ -1,0 +1,10 @@
+C:\Users\luis\source\repos\Tarea7\Tarea7\bin\Debug\Tarea7.exe.config
+C:\Users\luis\source\repos\Tarea7\Tarea7\bin\Debug\Tarea7.exe
+C:\Users\luis\source\repos\Tarea7\Tarea7\bin\Debug\Tarea7.pdb
+C:\Users\luis\source\repos\Tarea7\Tarea7\obj\Debug\Tarea7.csprojAssemblyReference.cache
+C:\Users\luis\source\repos\Tarea7\Tarea7\obj\Debug\Tarea7.FRMCELCIUS.resources
+C:\Users\luis\source\repos\Tarea7\Tarea7\obj\Debug\Tarea7.Properties.Resources.resources
+C:\Users\luis\source\repos\Tarea7\Tarea7\obj\Debug\Tarea7.csproj.GenerateResource.cache
+C:\Users\luis\source\repos\Tarea7\Tarea7\obj\Debug\Tarea7.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\Tarea7\Tarea7\obj\Debug\Tarea7.exe
+C:\Users\luis\source\repos\Tarea7\Tarea7\obj\Debug\Tarea7.pdb
